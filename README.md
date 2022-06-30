@@ -1,4 +1,4 @@
-expressjs=authtoken is the middleware to read the authentication token from the request
+expressjs-authtoken is the middleware to read the authentication token from the request
 
 ## How to use?
 

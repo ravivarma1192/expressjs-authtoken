@@ -1,6 +1,6 @@
 {
   "name": "expressjs-authtoken",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "read authentication token from request",
   "main": "index.js",
   "scripts": {
