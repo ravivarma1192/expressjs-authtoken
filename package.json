@@ -1,0 +1,26 @@
+{
+  "name": "expressjs-authtoken",
+  "version": "1.0.1",
+  "description": "read authentication token from request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravivarma1192/expressjs-authtoken.git"
+  },
+  "keywords": [
+    "authentication",
+    "auth",
+    "token",
+    "bearer",
+    "access_token"
+  ],
+  "author": "Ravi Varma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravivarma1192/expressjs-authtoken/issues"
+  },
+  "homepage": "https://github.com/ravivarma1192/expressjs-authtoken#readme"
+}
