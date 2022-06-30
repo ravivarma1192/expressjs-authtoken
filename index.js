@@ -9,7 +9,7 @@ const authToken = props => {
         const key = props?.key || 'authorization';
         const isMandatory = props?.isMandatory || false;
 
-        if (from == 'headers' || from == 'params' || from == 'body') {
+        if (from == 'headers' || from == 'query' || from == 'body') {
             let token = req[from]?.[key];
             if (!token) {
                 if (isMandatory) {
